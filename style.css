@@ -1,0 +1,107 @@
+body {
+	margin:0;
+}
+#header {
+	display:flex;
+}
+#menu {
+	margin:10px;
+	flex: 1;
+}
+#logo {
+	flex: 40;
+	margin-left:870px;
+	margin-right:870px;
+}
+#indexcont, #aboutcont, #contactcont {
+	width:75%;
+	margin:auto;
+}
+.text {
+	font-family: 'Baloo Bhaina', cursive;
+}
+#indexabout {
+	display:flex;
+	border-bottom:1px solid black;
+}
+#img1 {
+	flex:1;
+}
+#h31 {
+	flex:1;
+}
+#indexgallery {
+	text-align:center;
+}
+#footer {
+	margin:0;
+	background:#5d7765;
+	height:100px;
+}
+#h32 {
+	text-align:center;
+}
+#menu1 {
+	position:absolute;
+	left:-600px;
+	width:375px;
+	height:100%;
+	background:green/*#ff0000fc*/;
+}
+#a1 , #a2 , #a3 {
+	text-decoration:none;
+	/*text-align:center;*/
+}
+form {
+	background:#5d5b5b9e;
+	padding:15px;
+}
+#aboutcont {
+	display:flex;
+}
+#aboutmain {
+	border-right:2px solid black;
+	margin-right:10px;
+}
+#plogo {
+	width:50px;
+	margin-right:30px;
+}
+#mlogo {
+	width:90px;
+	margin-right:30px;
+}
+#llogo {
+	width:90px;
+	margin-right:30px;
+}
+#phone, #mail, #loc {
+	display:flex;
+	margin:10px;
+}
+#contactcont{
+	display:flex;
+}
+#contactmain, #sidebar {
+	flex:1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
